@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexomerahw.selenium.jp/sitemap.xml
